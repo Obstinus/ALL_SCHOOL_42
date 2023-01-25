@@ -23,7 +23,7 @@
 I       [Foreword](#Foreword)
 
 - I.1    [Why impose a standard?](#i1-why-impose-norm-)
-- I.2    [Standard in your renderings](#i2-standard in your renderings)
+- I.2    [Standard in your renderings](#i2-standard-in-your-renderings)
 - I.3    [Tip](#i3-Tip)
 
 II.1   [Norm 42](#standard-42-1)
