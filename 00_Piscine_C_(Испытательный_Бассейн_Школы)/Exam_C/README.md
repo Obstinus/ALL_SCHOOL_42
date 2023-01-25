@@ -1,37 +1,38 @@
-# Экзаменационные задания испытательного Бассейна по Си #
+# C Test Pool Exam Tasks #
 
 
 
-Экзамен включает в себя 75 задач, разделенных на 6 уровней прогрессивной сложности, пронумерованных от 0 до 5. Задачи уровня 0 так же просты, как `only_a`, при котором символ «a» выводится на стандартный вывод, а задачи уровня 4 и 5 столь же сложны, как `flood_fill`, `ft_itoa_base` и `print_memory`. Правильно выполняя каждую задачу, вы поднимаетесь на один уровень вверх, и, следовательно, увеличичваете сложность задния.
+The exam includes 75 problems divided into 6 levels of progressive difficulty, numbered from 0 to 5. Level 0 tasks are as simple as `only_a`, in which the symbol "a" is printed on standard output, while Level 4 and 5 tasks are as complex as `flood_fill`, `ft_itoa_base` and `print_memory`. By completing each task correctly, you move up one level, and therefore increase the difficulty of the ass.
 
-Охватываемые темы включают манипуляции со строками, побитовые операции, выделение памяти, алгоритмы сортировки, простые структуры данных, связанные списки и базовые преобразования. Некоторые из этих заданий могут быть из упражнений проекта, а другие могут быть совершенно новыми.
+Topics covered include string manipulation, bitwise operations, memory allocation, sorting algorithms, simple data structures, linked lists, and basic conversions. Some of these assignments may be from the project exercises, and others may be completely new.
 
-Решения должны выполняться программой менее чем за 10 секунд; никакой другой оптимизации не требуется.
+Solutions must be completed by the program in less than 10 seconds; no other optimization is required.
 
 
 
-# О сдаче экзаменов в аудитории Школы 42 #
+# About taking exams in the classroom at School 42
 
-Экзамены проходят каждый вторник утром с `9:00` до `13:00` в здании школы 42. Студенты входят в специальную экзаменационную учетную запись с ограниченным доступом к приложениям и Интернету и проходят тест с помощью текстового редактора(`Sublime Text`, `vim`,`emacs`), `git` и собственного терминального приложения под названием `examshell`.
+Exams take place every Tuesday morning from `9:00 to `13:00 in the School 42 building. Students log into a special exam account with limited access to applications and the Internet and take the test using a word processor(`Sublime Text', `vim',`emacs'), `git' and a proprietary terminal application called `examshell'.
 
-Студентам задают по одному вопросу за раз, начиная тест с уровня 0. За каждое правильное решение им начисляются баллы, и они переходят на следующий уровень теста, максимум до уровня 5.За каждое неправильное решение студентам дается другая задача того же уровня, но количество очков, которые они могут заработать на текущем уровне, уменьшается на 5. До 16 очков можно заработать на каждом из уровней с 0 по 4 и выше. До 20 баллов можно получить за уровень 5. Максимум очков которое можно получить за экзамен - 100 баллов.
+Students are given one question at a time, starting the test at level 0. For each correct solution, they are awarded points and move to the next level of the test, up to a maximum of level 5.For each incorrect solution, students are given another problem of the same level, but the number of points they can earn at the current level is reduced by 5. Up to 16 points can be earned at each of levels 0 through 4 and above. Up to 20 points can be earned at level 5. The maximum number of points possible for an exam is 100 points.
 
-Чтобы получить зачет за экзамен, студенты должны набрать не менее 75 баллов. Чтобы сдать экзаменационный проект и получить право на следующий уровень сложности, в среднем из 5 лучших попыток учащегося должно быть не менее 75 баллов для версии для начинающих или 84 для промежуточных. 
+Students must score at least 75 points in order to receive credit for the exam. To pass the exam and qualify for the next level, the average of the top 5 attempts should be at least 75 points for the beginner level or 84 for intermediate. 
 
-# Как и где писать код на экзамене в аудитории Школы 42 #
+# How and where to write code on the exam in the School 42 classroom
 
-Вы можете использовать `Sublime Text`, `vim` или `emacs` во время экзаменов 42! Однако есть одно важное ограничение: вы не должны использовать диалоговые окна`«Открыть файл»`, `«Сохранить как»` или, для безымянных файлов, `«Сохранить»`. Если вы это сделаете, ваш компьютер выйдет из строя. Вместо этого откройте и сохраните файлы следующим образом:
+You can use `Sublime Text', `vim' or `emacs' during exam 42! However, there is one important limitation: you should not use the `Open File', `Save As' or, for unnamed files, `Save File' dialog boxes. If you do this, your computer will crash. Instead, open and save files as follows:
 
-* Создавайте файлы, введя в терминале:
+* Create files by typing in the terminal:
 
 		touch filename1 filename2 filename3
 
-* Откройте файлы в Sublime Text, введя в вашем терминале:
+* Open files in Sublime Text by typing in your terminal:
 
-		open -a "Sublime Text" имя_файла1 имя_файла2 имя_файла3
+		open -a "Sublime Text" filename1 filename2 filename3
 
-* В качестве альтернативы, чтобы открыть окно Sublime Text с боковой панелью навигации по файлам с корнем в текущем каталоге введите:
+* Alternatively, to open a Sublime Text window with a sidebar to navigate to files with the root in the current directory type:
 
 		open -a "sublime text" .
 
-* Сохраните изменения в существующем файле, используя ⌘S или Файл-> Сохранить как обычно. Просто убедитесь, что файл уже существует, иначе появится диалоговое окно «Сохранить», и ваш компьютер выйдет из строя!
+* Save changes to the existing file using ⌘S or File-> Save as usual. Just make sure the file already exists, otherwise the "Save" dialog box will appear and your computer will crash!
+ Translated with www.DeepL.com/Translator (free version)
