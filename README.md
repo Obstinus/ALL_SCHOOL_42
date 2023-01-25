@@ -96,7 +96,7 @@ It is from this place that the teaching of programming in School 42 will begin.
 
 - `Piscine` by language `C`: [[ en ]](./00_Piscine_C_(%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B))
 - Exam tasks of the `Piscine` by language `C`: [[ en ][ fr ][ ro ]](./00_Piscine_C_(%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/Exam_C)
-- Ready-made and commented solutions for `Piscine` by language `C`: [[ ru ][ en ]](https://github.com/evgenkarlson/COMPLETED_PISCINE_C)
+- Ready-made and commented solutions for `Piscine` by language `C`: [[ ru ][ en ]](https://github.com/Obstinus/COMPLETED_PISCINE_C)
 
 Here you will be fully immersed in the deep part of the code, which will allow you to truly discover the school, its unique teaching method and, above all, what programming really is.
 
