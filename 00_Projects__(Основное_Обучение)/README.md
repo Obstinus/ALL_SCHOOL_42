@@ -1,4 +1,4 @@
-# ПРОЕКТЫ И ЗАДАНИЯ ОСНОВНОГО КУРСА ОБУЧЕНИЯ ШКОЛЫ 42
+# PROJECTS AND ASSIGNMENTS OF THE SCHOOL'S CORE CURRICULUM 42
 
 ![(Projects of the main course of study of the programming School'42'](./highlighting_branches_Holy_Graph.gif)
 
@@ -7,7 +7,7 @@
 
 
 <details>
-<summary> КАРТА ПРОЕКТОВ </summary>
+<summary> PROJECT MAP </summary>
 
 ![map Holy_Graph](./Holy_Graph.png)
 
@@ -17,13 +17,13 @@
 ---
 
 
-Проекты основного курса обучения представляют собой следующий этап обучения программированию. Все они сгруппированы по направлениям, которые представлены в виде ветвей. Помните, что каждый последующий проект выбранной вами ветки сложнее предыдущего и может быть решен только с помощью навыков полученных в предыдущих проектах.  
+Core course projects represent the next stage of programming instruction. All of them are grouped into branches, which are presented in the form of branches. Remember that each subsequent project of your chosen branch is more complicated than the previous one and can be solved only with the help of skills obtained in the previous projects.  
 
 
 ---
-> ### [[GLOBAL - Общая ветвь]](./00_Global_(begin_cadet)/)
+> ### [[GLOBAL - General branch]](./00_Global_(begin_cadet)/)
 ---
->> #### С этой ветки начинается основное обучение.
+>> #### This is the beginning of basic training.
 > - 42_commandements
 > - ft_debut
 > - piscine reloaded
@@ -34,9 +34,9 @@
 ---
 
 
-> ### [[Ветвь UNIX]](./01_Unix/)
+> ### [[Branch UNIX]](./01_Unix/)
 ---
->> #### Эта ветвь содержит в себе несколько направлений: Unix, Kernel, Virus, Security, Network.
+>> #### This branch contains several areas: Unix, Kernel, Virus, Security, Network.
 > - ft_ls
 > - minishell
 >   - ft_select
@@ -91,9 +91,9 @@
 
 
 
-> ### [[Ветвь Алгоритмов]](./02_Algorithmic/)
+> ### [[Algorithms branch]](./02_Algorithmic/)
 ---
->> #### Эта ветвь содержит в себе несколько  направлений: Algorithms, Data Science, Cryptography.
+>> #### This branch contains several areas: Algorithms, Data Science, Cryptography.
 > - ft_printf
 >   - ft_ssl_md5
 >   - ft_ssl_des
@@ -119,7 +119,7 @@
 
 
 
-> ### [[Ветвь Графики]](./03_Graphic/)
+> ### [[Graphics branch]](./03_Graphic/)
 ---
 > - FDF
 > - Fract'Ol
@@ -137,7 +137,7 @@
 
 
 
-> ### [[WEB ветвь]](./04_Web/)
+> ### [[WEB branch]](./04_Web/)
 ---
 > - piscine PHP
 > - Camagru
@@ -151,7 +151,7 @@
 
 
 
-> ### [[Системное & Сетевое Администрирование]](./05_Infrastructure_and_Admin/)
+> ### [[System & Network Administration]](./05_Infrastructure_and_Admin/)
 ---
 > - init
 > - docker-1
@@ -164,7 +164,7 @@
 
 
 
-> ### [[Android & iOS ветвь]](./06_Android-iOS/)
+> ### [[Android & iOS branch]](./06_Android-iOS/)
 ---
 > - piscine Swift iOS
 > - Swifty Companion
@@ -178,10 +178,10 @@
 
 
 
-> ### [[C++ ветвь]](./07_CPP/)
+> ### [[C++ branch]](./07_CPP/)
 ---
-> - modules С++ (это то же самое, что и `piscine C++`, но новая версия)
-> - piscine C++ (это то же самое, что и `modules С++` но старая версия)
+> - modules C++ (it's the same as `piscine C++` but a new version)
+> - piscine C++ (the same as `modules C++` but an older version)
 > - webserv
 > - ft_irc
 > - ft_containers
@@ -192,7 +192,7 @@
 
 
 
-> ### [[Unity ветвь]](./08_Unity/)
+> ### [[Unity branch]](./08_Unity/)
 ---
 > - piscine Unity
 > - XV
@@ -201,7 +201,7 @@
 
 
 
-> ### [[OCaml ветвь]](./09_OCaml/)
+> ### [[OCaml branch]](./09_OCaml/)
 ---
 > - piscine Ocaml
 > - ft_ality
@@ -211,7 +211,7 @@
 
 
 
-> ### [[Ai Projects - Искуственный интелект]](./10_Ai/)
+> ### [[Ai Projects - Artificial Intelligence]](./10_Ai/)
 ---
 > - walking_marvin
 > - ft_sommelier
@@ -220,7 +220,7 @@
 
 
 
-> ### [[Side Projects - Сторонние Проекты]](./11_Side_Projects/)
+> ### [[Side Projects - Outside Projects]](./11_Side_Projects/)
 ---
 > - ft_db
 > - KIFT
