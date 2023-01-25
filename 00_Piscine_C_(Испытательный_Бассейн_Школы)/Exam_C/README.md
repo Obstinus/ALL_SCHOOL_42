@@ -35,4 +35,4 @@ You can use `Sublime Text', `vim' or `emacs' during exam 42! However, there is o
 		open -a "sublime text" .
 
 * Save changes to the existing file using ⌘S or File-> Save as usual. Just make sure the file already exists, otherwise the "Save" dialog box will appear and your computer will crash!
- Translated with www.DeepL.com/Translator (free version)
+
