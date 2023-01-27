@@ -7,8 +7,8 @@
 
 ------------------------------------------------------------------------------------
 
-- Day 01: Shell00 - Командная строка Unix 
-- Day 02: Shell01 - Командная строка Unix
+- Day 01: Shell00 - Unix command line
+- Day 02: Shell01 - Unix command line
 
 - Day 03: C00: 
     * ex00 = ft_putchar.c 
