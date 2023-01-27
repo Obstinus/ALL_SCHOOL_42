@@ -1,16 +1,16 @@
-<h1 align="center"><code>Бассейн по Си</code></h1>
+<h1 align="center"><code>Pool by C</code></h1>
 
 ------------------------------------------------------------------------------------
 
 <details>
-<summary> СОДЕРЖИМОЕ БАССЕЙНА </summary>
+<summary> POOL CONTENT </summary>
 
 ------------------------------------------------------------------------------------
 
-- День 01: Shell00 - Командная строка Unix 
-- День 02: Shell01 - Командная строка Unix
+- Day 01: Shell00 - Командная строка Unix 
+- Day 02: Shell01 - Командная строка Unix
 
-- День 03: C00: 
+- Day 03: C00: 
     * ex00 = ft_putchar.c 
     * ex01 = ft_print_alphabet.c 
     * ex02 = ft_print_reverse_alphabet.c 
@@ -21,7 +21,7 @@
     * ex07 = ft_putnbr.c 
     * ex08 = ft_print_combn.c
 
-- День 04: C01: 
+- Day 04: C01: 
     * ex00 = ft_ft.c 
     * ex01 = ft_ultimate_ft.c 
     * ex02 = ft_swap.c 
@@ -31,9 +31,9 @@
     * ex06 = ft_strlen.c 
     * ex07 = ft_rev_int_tab.c 
     * ex08 = ft_sort_int_tab.c 
-- День 05-07: Rush00 - Написать программу отображения индивидуальных сеток с различными размерами.
+- Day 05-07: Rush00 - Write a programme to display individual grids with different dimensions.
 
-- День 08: C02:
+- Day 08: C02:
     * ex00 = ft_strcpy.c 
     * ex01 = ft_strncpy.c 
     * ex02 = ft_str_is_alpha.c 
@@ -48,7 +48,7 @@
     * ex11 = ft_putstr_non_printable.c 
     * ex12 = ft_print_memory.c 
 
-- День 09: C03: 
+- Day 09: C03: 
     * ex00 = ft_strcmp.c 
     * ex01 = ft_strncmp.c
     * ex02 = ft_strcat.c 
@@ -56,7 +56,7 @@
     * ex04 = ft_strstr.c 
     * ex05 = ft_strlcat.c 
 
-- День 10: C04: 
+- Day 10: C04: 
     * ex00 = ft_strlen.c 
     * ex01 = ft_putstr.c 
     * ex02 = ft_putnbr.c 
@@ -64,7 +64,7 @@
     * ex04 = ft_putnbr_base.c 
     * ex05 = ft_atoi_base.c 
 
-- День 11: C05: 
+- Day 11: C05: 
     * ex00 = ft_iterative_factorial.c 
     * ex01 = ft_recursive_factorial.c 
     * ex02 = ft_iterative_power.c 
@@ -75,14 +75,14 @@
     * ex07 = ft_find_next_prime.c 
     * ex08 = ft_ten_queens_puzzle.c 
 
-- День 12-14: Rush01 - Написать программу решающую логическую головоломку `Небоскребы`(`skyscapers`).
-- День 15: C06: 
+- Day 12-14: Rush01 - Написать программу решающую логическую головоломку `Небоскребы`(`skyscapers`).
+- Day 15: C06: 
     * ex00 = ft_print_program_name.c 
     * ex01 = ft_print_params.c 
     * ex02 = ft_rev_params.c 
     * ex03 = ft_sort_params.c 
 
-- День 16: C07: 
+- Day 16: C07: 
     * ex00 = ft_strdup.c 
     * ex01 = ft_range.c 
     * ex02 = ft_ultimate_range.c 
@@ -90,7 +90,7 @@
     * ex04 = ft_convert_base.c 
     * ex05 = ft_split.c 
 
-- День 17: C08: 
+- Day 17: C08: 
     * ex00 = ft.h 
     * ex01 = ft_boolean.h 
     * ex02 = ft_abs.h 
@@ -98,20 +98,20 @@
     * ex04 = ft_strs_to_tab.h | ft_strs_to_tab.c 
     * ex05 = ft_show_tab.h | ft_show_tab.c 
 
-- День 18: C09: 
+- Day 18: C09: 
     * ex00 = libft_creator.sh | ft_putchar.c | ft_swap.c | ft_putstr.c | ft_strlen.c | ft_strcmp.c
     * ex01 = Makefile
     * ex02 = ft_split.c
 
-- День 19-21: Rush02.
+- Day 19-21: Rush02.
 
-- День 22: C10: 
+- Day 22: C10: 
     * ex00 = ft_display_file
     * ex01 = ft_cat
     * ex02 = ft_tail
     * ex03 = ft_hexdump
 
-- День 23: C11: 
+- Day 23: C11: 
     * ex00 = ft_foreach.c 
     * ex01 = ft_map.c 
     * ex02 = ft_any.c
@@ -121,7 +121,7 @@
     * ex06 = ft_sort_string_tab.c
     * ex07 = ft_advanced_sort_string_tab.c
 
-- День 24: C12: 
+- Day 24: C12: 
     * ex00 = ft_create_elem.c | ft_list.h
     * ex01 = ft_list_push_front.c | ft_list.h
     * ex02 = ft_list_size.c | ft_list.h
@@ -141,7 +141,7 @@
     * ex16 = ft_sorted_list_insert.c | ft_list.h
     * ex17 = ft_sorted_list_merge.c | ft_list.h
 
-- День 25: C13: 
+- Day 25: C13: 
     * ex00 = btree_create_node.c | ft_btree.h
     * ex01 = btree_apply_prefix.c | ft_btree.h 
     * ex02 = btree_apply_infix.c | ft_btree.h
@@ -151,17 +151,17 @@
     * ex06 = btree_level_count.c | ft_btree.h
     * ex07 = btree_apply_by_level.c | ft_btree.h
 
-- Финальный проект : BSQ - Написать программу, которая находит самый большой квадрат на данной карте и отображает его.
+- Final project : BSQ - Write a program that finds the largest square on a given map and displays it.
 
 </details>
 
 ------------------------------------------------------------------------------------
 
-Чтобы разобраться в заданиях используйте обучающие видео `Школы 42` на 10-30 минут с теорией и примерами(используйте в плеере функцию субтитров и их перевода на нужный вам язык):
+To understand the tasks, use the School 42 training videos for 10-30 minutes with theory and examples (use the player's subtitle function and translate them into the language you want):
 
 | [Shell and Git video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | [C00 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-) | [C01 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxytsXWxZx6odBJMbRktIHTs) | [C05 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxZbeH9b0VC-nC6QsJRw5Ah)| [C06 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxDlCkkCX262SI90TsllYUW) | [C07 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzNYF00nlmx624twFlamqLt) | [C08 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxMI_GiGGb2hxMcd3IwNYRy) | [C09 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxw6n6q_i8wek6U7t7CeAXhU) | [C11 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz) | [C12 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj) | [C13 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9) |
 
-> Как правило, информации из видео никогда не будет достаточно. Поэтому остальное вы ищите самостоятельно через интернет!
+> As a rule, information from a video is never enough. So you search for the rest on your own via the internet!
 
 <p align=center ><img src='./map_of_the_Piscine_C.png'></p>
 
